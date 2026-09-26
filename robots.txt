@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Aggiorna quando colleghi il dominio
+# Sitemap: https://www.example.it/sitemap.xml
